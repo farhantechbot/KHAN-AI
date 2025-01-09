@@ -90,9 +90,9 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://talkdrove.com/share-bot/82' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TaikDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://host.talkdrove.com/share-bot/82' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TaikDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
-* Create TaikDrove <a href="https://talkdrove.com/auth/signup?ref=5E95F1DA">Click Here</a>
+* Create TaikDrove <a href="https://host.talkdrove.com/auth/signup?ref=5E95F1DA">Click Here</a>
 
 <h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
