@@ -97,7 +97,6 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 <h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
 <p align="center">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-AI&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-AI&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
@@ -179,6 +178,8 @@ jobs:
 
 ## 🔗 KHAN-AI INFO
 
+---
+
   <p align="center">
 <a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=square"></a>
 <a href="https://github.com/JawadYTX/KHAN-AI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/KHAN-AI?color=blue&style=square"></a>
@@ -193,6 +194,8 @@ jobs:
 
 ## 🌐 WhatsApp Channel 
 
+---
+
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
@@ -201,7 +204,8 @@ Stay connected with the latest updates and community by joining our official Wha
 
 <h2 align="left">⚠️ Reminder</h2>
 <p style="text-align: center; font-size: 1.2em;">
-
+  
+----
 - **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
 - Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
 - I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
@@ -210,6 +214,8 @@ Stay connected with the latest updates and community by joining our official Wha
 
 <h2 align="left">ℹ️ Notice</h2>
 <p style="text-align: center; font-size: 1.2em;">
+  
+---  
   Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
   
 ---
@@ -224,6 +230,7 @@ Stay connected with the latest updates and community by joining our official Wha
 > KHAN-AI Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
 - For helping in bot plugin files.
+  
 ---
 
  <br>
