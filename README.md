@@ -187,7 +187,7 @@ jobs:
 <a href="https://github.com/JawadYTX/KHAN-AI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
  <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-AI/license"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/KHAN-AI?color=green&label=License&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-AI/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/KHAN-AI?color=green&label=License&style=square"></a>
 
 ----
 
