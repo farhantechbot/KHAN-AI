@@ -1,6 +1,8 @@
-<p align="center">
-  <h1 align="center">KHAN-AI 3.0</h1>
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=KHAN-AI-V3.0" alt="Typing SVG" /></a>
+  </p>
+  
+---  
 
 > **`Updated To` The Version 3.0**
 ---
@@ -8,42 +10,33 @@
 ```
 KHAN-AI BY JawadTechX 💜 
 ```
----
-
-<p align="center">
-  <a href="https://github.com/JawadTechX">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=KHAN-AI-+v3.0+MultiDevice;Developed+by+JawadTechX;Give+star+and+forks+this+Repo+🌟" alt="JawadTechXReadme">
-  </a>
-</p>
 
 --- 
 
 <a><img src='https://files.catbox.moe/5dxv7p.jpg'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ***
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-AI"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/JawadYTX/KHAN-AI"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -182,20 +175,21 @@ jobs:
 ```
 </details> 
 
-***
+---
 
 ## 🔗 KHAN-AI INFO
 
   <p align="center">
-<a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/KHAN-AI?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYTX/KHAN-AI?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/KHAN-AI?style=flat-square&color=green"></a>
+<a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-AI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/KHAN-AI?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-AI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYTX/KHAN-AI?color=blue&style=square"></a>
+<a href="https://github.com/JawadYTX/KHAN-AI/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/KHAN-AI?style=square&color=green"></a>
 <a href="https://github.com/JawadYTX/KHAN-AI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
 
+ <p align="center">
+<a href="https://github.com/JawadYTX/KHAN-AI/license"><img title="Followers" src="https://img.shields.io/github/license/JawadYTX/KHAN-AI?color=green&label=License&style=square"></a>
+
+----
 
 ## 🌐 WhatsApp Channel 
 
@@ -203,7 +197,7 @@ Stay connected with the latest updates and community by joining our official Wha
 
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 
-***
+---
 
 <h2 align="left">⚠️ Reminder</h2>
 <p style="text-align: center; font-size: 1.2em;">
@@ -220,11 +214,9 @@ Stay connected with the latest updates and community by joining our official Wha
   
 ---
 
-<h2 align="center">🔰Team Section🔰 </h2>
+<h2 align="center">🔰 Credit Section 🔰 </h2>
 
 ---
-
-### Thanks To Team ⤵️
 
 > KHAN-AI Owner 
 - [JawadTechX](https://github.com/JawadYTX)
@@ -247,4 +239,4 @@ Stay connected with the latest updates and community by joining our official Wha
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-------
+---
